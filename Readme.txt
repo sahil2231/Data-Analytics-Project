@@ -1,0 +1,1 @@
+All Telecom companies need to focus on retention of the customers and to retain them back in the competitive business. The dashboard shows the churn rate of the customers in the telecom industry. In which sector the industry is losing the business and how to retain them back.
